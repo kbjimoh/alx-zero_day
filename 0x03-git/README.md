@@ -1,2 +1,1 @@
-My first readme
-Hands on training
+Growth mindset towards ALX

@@ -1,1 +1,1 @@
-Growth mindset towards ALX
+My first readme
